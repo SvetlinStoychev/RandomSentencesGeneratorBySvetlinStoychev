@@ -9,7 +9,12 @@ Make sure you have the following installed:
 - Java Development Kit (JDK)
 - Integrated Development Environment (IDE) or a text editor
 
-## Getting Started
+## 1. Getting Started
+
+1. click on the link below
+2. https://replit.com/@SvetlinStoychev/RandomSentencesGenerator?v=1
+
+## 2. Getting Started
 
 1. Clone the repository or download the Java file.
 2. Open the Java file in your preferred IDE or text editor.
@@ -36,3 +41,8 @@ The program uses the `java.util.Random` and `java.util.Scanner` classes to gener
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## screenshot
+![randomSentenceGenerator](https://github.com/SvetlinStoychev/RandomSentencesGeneratorBySvetlinStoychev/assets/133974226/b92a066a-ea11-4063-a0e8-9415f1db0fff)
+
+
